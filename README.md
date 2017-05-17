@@ -18,3 +18,8 @@ _( I think this works with binary builds as well, but I haven't tested )_
 Of course!
 
 ![](comparison.png)
+
+## No, I mean the current theme not the original one.
+Should've told me!
+
+![](comparison_true.png)
