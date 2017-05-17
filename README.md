@@ -8,11 +8,8 @@ Flat Theme for Unreal Engine 4, get rid of those rounded borders once and for al
 Copy paste to your UnrealEngine folder, the path should match and you should normally end up replacing existing files. That's it !
 
 ## What changed?
-Lots of tiny stuff, but most importantly I tried to get rid of the roundest of the roundest of borders.
-
-## Which version did you use?
-Unreal Engine 4.15.2 compiled from source. 
-_( I think this works with binary builds as well, but I haven't tested )_
+* Only Images: Tabs and Windows buttons ( close, minimize, etc.. ), and few other small things.
+* No code was touched during creation of this lazy work.
 
 ## Can I have a screenshot that compares with the original theme?
 Of course!
@@ -23,3 +20,6 @@ Of course!
 Should've told me!
 
 ![](comparison_true.png)
+
+## Which version did you use?
+Unreal Engine 4.15.2
