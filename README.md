@@ -1,11 +1,14 @@
 # LazyTheme
-Flat Theme for Unreal Engine 4, get rid of those rounded borders once and for all !
+This is images-only replacement for a more pleasant UI look of the editor.
 
 ![preview](preview.png)
 ![preview](preview2.png)
 
 ## How to install?
 Copy paste to your UnrealEngine folder, the path should match and you should normally end up replacing existing files. That's it !
+
+### 4.16 notes
+The background of the window won't be replaced automatically, you can change it through the *Editor Preferences* > *Appearance* > *Colors* > **Editor Main Window Background Override** ( Set it to your own image or replace it by black, which also looks good )
 
 ## What changed?
 * Only Images: Tabs and Windows buttons ( close, minimize, etc.. ), and few other small things.
@@ -22,4 +25,4 @@ Should've told me!
 ![](comparison_true.png)
 
 ## Which version did you use?
-Unreal Engine 4.15.2
+Unreal Engine 4.16
