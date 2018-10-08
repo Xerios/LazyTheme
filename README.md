@@ -1,8 +1,8 @@
-# LazyTheme
+# LazyTheme ( Pink version )
 This is images-only replacement for a more pleasant UI look of the editor.
 
-![preview](preview.png)
-![preview](preview2.png)
+![](pink_editor.PNG)
+![](pink_reference.png)
 
 ## How to install?
 Copy paste to your UnrealEngine folder, the path should match and you should normally end up replacing existing files. That's it !
@@ -31,6 +31,4 @@ Unreal Engine 4.16
 ![](pink_editor.PNG)
 
 ![](pink_reference.png)
-
-
 
