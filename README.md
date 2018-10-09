@@ -1,7 +1,7 @@
 # LazyTheme
 This is images-only replacement for a more pleasant UI look of the editor.
 
-( [Also available in pink](https://github.com/Xerios/LazyTheme/tree/pink) thanks to [matzar](https://github.com/matzar) & Justin Meisse )
+( [Also available in pink](https://github.com/Xerios/LazyTheme/tree/pink) thanks to [matzar](https://github.com/matzar) & [Justin Meisse](https://jmeisse.artstation.com/)
 
 ![preview](preview.png)
 ![preview](preview2.png)
