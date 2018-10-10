@@ -28,4 +28,4 @@ Should've told me!
 ![](comparison_true.png)
 
 ## Which version did you use?
-Unreal Engine 4.16
+Unreal Engine 4.16, 4.19, 4.20
